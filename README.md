@@ -16,4 +16,5 @@ Run in Gitpod
 You can also run Sudoku-GUI-Game in Gitpod, a free online dev environment for GitHub:
 
 Click on the link and start solving.
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rudrajit1729/Sudoku-GUI-Game/blob/master/GUI.py)
